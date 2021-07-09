@@ -21,7 +21,7 @@
     "tronweb": "^2.1.30",
     "truffle": "^5.0.2",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1",
+    "vue-router": "^3.5.1",
     "vue-toasted": "^1.1.26",
     "vuex": "^3.1.0"
   },
